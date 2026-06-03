@@ -10,6 +10,10 @@ Bu proje, kapalı ve siyah hazneli bir geri dönüşüm kutusunda atıkları oto
 - Eğitim sonunda **~%93** doğruluk bandı
 
 ## Canlı Demo
+
+Ekip arkadaşlarımla hazırladığım proje ve model tanıtım videosu:
+https://youtu.be/TyzawMWt5Sc?si=ukQ2pQva0srhl850
+
 Streamlit Community Cloud üzerinde canlı çalışan uygulama:
 https://final-project-recycle-classification-p7qvxat9uoyxzkzjazn5ib.streamlit.app/
 
@@ -79,7 +83,7 @@ Bu proje Streamlit Community Cloud üzerinde doğrudan çalıştırılabilir. Gi
 ```
 
 ## Katkı ve Roller
-- Veri seti derleme: sınıf katkısı (Google Drive)
+- Veri seti derleme: Sınıf Katkısı (Google Drive)
 - Ek Kaggle veri seti desteği: **Mehmet Yıldız**
 - Model geliştirme ve eğitim: **Efe Can Kara**
 - Streamlit arayüzü ve deployment: **Yiğit Altundağ**
